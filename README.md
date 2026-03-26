@@ -23,3 +23,17 @@
 
 ![LOGIN PAGE](https://github.com/dev-karan21K/pro_images/blob/main/foodrestaurant/login.png)
 
+
+![HOME PAGE](https://github.com/dev-karan21K/pro_images/blob/main/foodrestaurant/homepage.png)
+
+
+![RESTAURANT PAGE](https://github.com/dev-karan21K/pro_images/blob/main/foodrestaurant/restaurantpage.png)
+
+
+![CART PAGE](https://github.com/dev-karan21K/pro_images/blob/main/foodrestaurant/cartpage.png)
+
+
+![CHECKOUT PAGE](https://github.com/dev-karan21K/pro_images/blob/main/foodrestaurant/checkoutpay.png)
+
+
+![ORDERED PAGE](https://github.com/dev-karan21K/pro_images/blob/main/foodrestaurant/orderedpay.png)
